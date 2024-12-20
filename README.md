@@ -1,0 +1,1 @@
+This is a project based on the OpenSource Micromajor Programme in Shanghai University of International Business and Economics, aiming to create AI for emotional purposes,all enthusiasts are welcome to actively participate in this project.
